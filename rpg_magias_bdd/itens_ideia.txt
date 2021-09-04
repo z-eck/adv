@@ -1,0 +1,13 @@
+Nome (sugestão de ideia): Wiki de Magias de RPG
+
+Criar um Banco de Dados com a ideia de armazenar magias de um sistema de RPG (em mente, no momento ser unicamente, o D&D 5.0, mais tarde adicionar mais sistemas como o Tormenta, GURPS, DdT, e sistemas nomeados próprios), e de preferência, alterância entre PT-BR e Inglês minimamente (ou ser apto as pessoas poderem traduzir para uma língua desejada, e para isso, o inglês ser a raíz)
+
+Divisões de Classe (Qual tipo é o personagem, baseado no sistema citado, o D&D 5.0, ser, por exemplo, um Mago, Feiticeiro, Bruxo, Druida, Paladino...)
+
+Divisões por Nível (Nível de personagem, como nível 1, nível 2, nível 3... assim por diante)
+
+Divisões por Religião, Tipo de Elemento da Natureza ou Escola (é como as casas do Harry Potter)
+
+Divisões por Tempo de Conjuração (O quanto demora para a magia ser invocada, e as vezes pode ser impactante para o tipo)
+
+Divisões por Requerimento (Se é necessário um item, como um cajado, ou ter passado por algo obrigatóriamente na história, etc...)
